@@ -1,0 +1,12 @@
+# Site settings
+title: Yanzay Blog
+username: Alexey Grachov aka Yanzay
+email: grachov.alexey@gmail.com
+description: Development as a lifestyle
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yanzay.github.io" # the base hostname & protocol for your site
+twitter_username: yanzay
+github_username:  yanzay
+
+# Build settings
+markdown: kramdown
